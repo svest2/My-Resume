@@ -34,10 +34,8 @@
     <article>
       <h2>My Objective</h2>
       <p>
-         I am a Liberty University graduate 
-        with a b.s in IT: Web<br>
-        and Mobile Programming.
-         What I want more than anything <br>
+         I am a Liberty University graduate with a b.s in IT: Web<br>
+        and Mobile Programming. What I want more than anything <br>
          is a job in my field that works out great for me. I believe that <br>
          having a web developer/designer career is the best option for me. I love being <br>
          creative and showing off my skills. I am learning more and more <br>
@@ -74,7 +72,7 @@
      <h3>Germanna Community College</h3>
      <p>08/2013-05/2015</p>
      <h3>Liberty University</h3>
-     <p>08/2015-Current</p>
+     <p>08/2015-12/2018</p>
     </article>
    </div><br>
    <div id-"col-md-4">
