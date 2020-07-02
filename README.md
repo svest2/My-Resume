@@ -48,10 +48,7 @@
          I understand that it will take time to get where I want to <br>
          get, but I am up for the challenge and I have the time!
 
-       </p>  
-      </article><br>
-     </div>
-    </div>
+       
    </div><br>
    <div id="container">
      <div class="row">
