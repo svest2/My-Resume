@@ -34,18 +34,8 @@
     <article>
       <h2>My Objective</h2>
       <p>
-         I am a Liberty University graduate with a b.s in IT: Web<br>
-        and Mobile Programming. What I want more than anything <br>
-         is a job in my field that works out great for me. I believe that <br>
-         having a web developer/designer career is the best option for me. I love being <br>
-         creative and showing off my skills. I am learning more and more <br>
-         computer and programming languages than ever, on a daily basis. <br>
-         I will also love to make my career develop over the time. I also <br>
-         would love to improve my skills daily, so I can move from an <br>
-         entry-level, junior developer to an expert, senior developer. <br>
-         I understand that it will take time to get where I want to <br>
-         get, but I am up for the challenge and I have the time!
-
+     I graduated from LIberty University in DEC. 14th, 2018 with a degree in IT: Web and Mobile Programming. Having  a job in my field that works out great for me is what I want more then anything.Developing a career as a web developer/designer is what intrigus me more then anything. Being creative an adding my own touch is what suits me the most. I am learning more and more computer and programming languages all the time, on a daily basis.  I would love to improve my skills daily, so I can move from an entry-level, junior developer to an expert, senior developer. I understand that it will take time to get where I want to get, but I am up for the challenge and I have the time!
+     </p>
        
    </div><br>
    <div id="container">
